@@ -54,7 +54,7 @@ mainframe.append(anime)
 anime.style.display = ''
 backbtn.textContent = "Go back"
 backbtn.style.display = "none"
-title.textContent = "King Hakker"
+title.textContent = "Taikosolos"
 author.textContent = "A bucketload of school hacks by Anonymous"
 btn1.textContent = "History Flooder"
 btn2.textContent = "Tab Cloak"
